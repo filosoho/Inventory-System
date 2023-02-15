@@ -41,7 +41,7 @@ The program has the following functionalities:
 8. Quit: Exits the program.
 
 <p align="center">
-  <img src="[your_relative_path_here](https://github.com/filosoho/Inventory-System/blob/519762aa34d2ad7db90c48e7ca5097c7f9255656/Inventory%20System.png)" width="350" title="hover text">
+  <img src="[your_relative_path_here](Inventory System.png)" width="350" title="hover text">
 </p>
 
 
