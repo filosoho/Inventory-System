@@ -40,7 +40,7 @@ The program has the following functionalities:
 7. Determine Product with Highest Quantity: This function will determine the product with the highest quantity and print this shoe as being for sale or not, if no shoes are found.
 8. Quit: Exits the program.
 
-![alt text](https://github.com/filosoho/Inventory-System/blob/669763ccb41d361fafe76975593f07dc276affec/Inventory%20System.png?raw=true)
+![alt text](https://github.com/filosoho/Inventory-System/blob/3305398eff5234ecdd270b5ac92fd451795285e1/Inventory%20System.png?raw=true)
 
 
 # Contributing
