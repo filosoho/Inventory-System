@@ -50,7 +50,3 @@ If you would like to contribute to this program, feel free to submit a pull requ
 # License
 
 Feel free to use and modify the code as per your requirements.
-
-# Author
-
-This program was written by Anna Stachowska.
