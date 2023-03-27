@@ -31,7 +31,7 @@ https://pypi.org/project/tabulate/
 To use this program, download or clone the repository from Github.   
 To run the program, simply execute:
 ~~~
-main.py
+inventory.py
 ~~~  
 You will be presented with a menu with the available options.  
 Enter the number of the operation you would like to perform and follow the instructions.    
